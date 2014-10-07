@@ -1,0 +1,15 @@
+.box {
+  display: inline-block;
+  border: 2px solid black;
+  padding: 2px;
+}
+
+.box.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+.done {
+  text-decoration: line-through;
+}

@@ -13,3 +13,20 @@
 .done {
   text-decoration: line-through;
 }
+
+.imp-btn{
+	width: 15px;
+	height: 15px;
+	background-color: red; 
+}
+.important{
+	font-weight: bold;
+}
+.undone-tasks{
+	background-color: lightgrey;
+	color:black;
+	height: 20px;
+	width: 100px;
+	border: 2px solid black;
+	text-align: center;
+}
